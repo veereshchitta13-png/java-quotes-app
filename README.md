@@ -8,6 +8,10 @@ This project is a simple Java-based HTTP server that serves random motivational 
 - Lightweight HTTP server using `com.sun.net.httpserver.HttpServer`.
 - Dockerized for easy deployment.
 
+## Requirements
+- Java 17+
+- Maven (if building from source)
+- Docker (optional, for containerized deployment)
 
 ## Setup and Usage
 
@@ -61,5 +65,4 @@ This project is licensed under the MIT License.
 ## Author
 [TrainWithShubham](https://github.com/LondheShubham153)
 
-## new Author
 
